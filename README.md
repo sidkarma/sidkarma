@@ -14,7 +14,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: People tell me i am really fun to be around.
 
 ![Sidkarma's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidkarma&count_private=true&theme=tokyonight) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidkarma&layout=compact&count_private=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sidkarma)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sidkarma)]
 
 
 <br><br>
